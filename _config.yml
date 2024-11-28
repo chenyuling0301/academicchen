@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yuling CHEN"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : "Yuling"
 description              : &description "personal description"
 url                      : https://chenyuling0301.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,7 +21,7 @@ repository               : "chenyuling0301/chenyuling.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "1091732823071_.pic.png"
   name             : "Yuling CHEN"
   pronouns         : "she/her"  
   bio              : "Statistics newbie"
